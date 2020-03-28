@@ -1,1 +1,2 @@
 this is new hotfix file.
+new line.
