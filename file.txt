@@ -1,2 +1,0 @@
-this is new text.
-this was done during branch switching.
